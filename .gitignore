@@ -1,3 +1,23 @@
 .ipynb_checkpoints/
 .venv/
 executar.bat
+# Credenciais
+*.json
+*.key
+.env
+service-account*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Dados
+*.csv
+*.xlsx
+*.parquet
